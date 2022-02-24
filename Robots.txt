@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /images/
+
+Sitemap: https://biblos2000.gitbub.io/sitemap.xml
